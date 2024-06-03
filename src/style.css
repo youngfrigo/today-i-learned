@@ -93,14 +93,6 @@ h1 {
   gap: 24px;
 }
 
-@media (max-width: 1200px) {
-  .fact {
-    flex-direction: column;
-    align-items: flex-end;
-    gap: 12px;
-  }
-}
-
 .tag {
   text-transform: uppercase;
   font-size: 14px;
